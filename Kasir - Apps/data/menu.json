@@ -1,0 +1,46 @@
+{
+  "Makanan": [
+    {
+      "nama": "Nasi Goreng",
+      "price": 15000
+    },
+    {
+      "nama": "Mie Ayam",
+      "price": 12000
+    },
+    {
+      "nama": "Ayam Geprek",
+      "price": 18000
+    },
+    {
+      "nama": "Sate Ayam",
+      "price": 18000
+    },
+    {
+      "nama": "Daging Babi",
+      "price": 40000
+    }
+  ],
+  "Minum": [
+    {
+      "nama": "Es Teh Manis",
+      "price": 8000
+    },
+    {
+      "nama": "Kopi Hitam",
+      "price": 8000
+    },
+    {
+      "nama": "Jus Alpukat",
+      "price": 10000
+    },
+    {
+      "nama": "Jus Pare",
+      "price": 7000
+    },
+    {
+      "nama": "Es Kelapa Sawit",
+      "price": 5000
+    }
+  ]
+}
